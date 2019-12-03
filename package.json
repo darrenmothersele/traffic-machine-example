@@ -10,9 +10,11 @@
   "author": "Darren Mothersele <darren@darrenmothersele.com>",
   "license": "UNLICENSED",
   "dependencies": {
-    "@darrenmothersele/builder": "file:lib/builder",
     "haunted": "^4.6.3",
     "haunted-robot": "^0.2.1",
     "robot3": "^0.2.9"
+  },
+  "devDependencies": {
+    "@darrenmothersele/builder": "^0.1.1"
   }
 }
